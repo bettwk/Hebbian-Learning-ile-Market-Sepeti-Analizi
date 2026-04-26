@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kaggle Veri Setleri (GitHub'a yuklenmeyecek)
+Assignment-1_Data.csv
+Assignment-1_Data.xlsx
